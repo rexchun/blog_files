@@ -1,2 +1,2 @@
-# latex_temples
-temples of latex
+# blog_files
+blog_files
